@@ -1,0 +1,28 @@
+_repo: Stoles-Knitted-Crocheted-Hairpin-Lace_67839
+_version: 0.0.1
+creator:
+  author:
+    agent_name: American Thread Company
+    aliases:
+    - Company, American Thread
+    - American Thread Co.
+    gutenberg_agent_id: '50912'
+    url: http://www.gutenberg.org/2009/agents/50912
+description: ''
+gutenberg_issued: '2022-04-15'
+identifiers:
+  gutenberg: '67839'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Star Stole Book No. 133
+subjects:
+- !lcsh 'Hairpin lace -- Patterns'
+- !lcsh 'Stoles (Clothing)'
+- !lcsh 'Crocheting -- Patterns'
+- !lcc 'TT'
+- !lcsh 'Knitting -- Patterns'
+- GITenberg
+title: 'Stoles: Knitted; Crocheted; Hairpin Lace'
+url: http://www.gutenberg.org/ebooks/67839
